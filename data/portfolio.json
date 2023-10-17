@@ -1,0 +1,156 @@
+{
+  "name": "Fatima Pashazade",
+  "headerTaglineOne": "Hey there👋",
+  "headerTaglineTwo": "I'm Fatima - aka curious",
+  "headerTaglineThree": "Front-end developer",
+  "headerTaglineFour": " based in Barcelona, Spain.",
+  "showCursor": true,
+  "showBlog": true,
+  "darkMode": true,
+  "showResume": true,
+  "socials": [
+    {
+      "id": "1",
+      "title": "Github",
+      "link": "https://github.com/FatimaPashazade"
+    },
+    {
+      "id": "2",
+      "title": "LinkedIn",
+      "link": "https://www.linkedin.com/in/fatima-pashazade-603585180/"
+    },
+    {
+      "id": "4",
+      "title": "Blog",
+      "link": "https://medium.com/@fatimapashazade"
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "title": "ChillPill Project",
+      "description": "Web Design",
+      "imageSrc": "https://drive.google.com/uc?id=1K0hJfm9d8M1dE4lUWPTzYEtHsewMc0nT",
+      "url": "https://troopl.com/fatimapashazade/chillpill"
+    },
+    {
+      "id": "2",
+      "title": "Youtube Clone project",
+      "description": "Web Development",
+      "imageSrc": "https://drive.google.com/uc?id=1y2evic4FGdQgl-2cy6PP2ESQmgE4KqZ5",
+      "url": "https://64db382ac7a4063d8c5276c5--phenomenal-douhua-471f29.netlify.app/"
+    },
+    {
+      "id": "3",
+      "title": "TO GO Project",
+      "description": "Design",
+      "imageSrc": "https://drive.google.com/uc?id=11vpsYi9v_CT0zErzYl4sjjFDLBZ2eaKV",
+      "url": "https://troopl.com/fatimapashazade/to-go"
+    },
+    {
+      "id": "4",
+      "title": "SushiMan Project",
+      "description": "Marketing",
+      "imageSrc": "https://drive.google.com/uc?id=18DGkLNNc9pQubfwYAghVDDn-h7d3WMjU",
+      "url": "https://troopl.com/fatimapashazade/sushiman"
+    },
+    {
+      "id": "5",
+      "title": "MovieLand Project",
+      "description": "Development",
+      "imageSrc": "https://drive.google.com/uc?id=1VVxkmQSYFti8zuJynAGCcF4AC9UFmabr",
+      "url": "https://troopl.com/fatimapashazade/movieland-react-app"
+    },
+    {
+      "id": "6",
+      "title": "Food Ordering Project",
+      "description": "Design & Development",
+      "imageSrc": "https://drive.google.com/uc?id=10t9SJ5iv-SKsmDI7O5WuN6kqGqdXzC4m",
+      "url": "https://troopl.com/fatimapashazade/food-ordering-app"
+    }
+  ],
+  "services": [
+    {
+      "id": "1",
+      "title": "Javascript/React",
+      "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+    },
+    {
+      "id": "2",
+      "title": "HTML/CSS",
+      "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+    },
+    {
+      "id": "3",
+      "title": "Web Design",
+      "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+    },
+    {
+      "id": "4",
+      "title": "Ruby/Ruby on Rails",
+      "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+    }
+  ],
+  "aboutpara": "As a recent graduate of a prestigious web development bootcamp in Barcelona, I've cultivated a strong passion for technology, particularly in the realm of front-end development. My education has equipped me with a multifaceted skill set that seamlessly aligns with the ever-evolving tech landscape, including expertise in front-end tools and frameworks. I possess sharp troubleshooting abilities, a keen eye for detail, and exceptional client and collaborator engagement skills. My journey in the geospatial sector has provided me with substantial technical expertise, which I'm eager to apply while leveraging front-end tools to create immersive user experiences. More information, such as my previous work experience and references, can be found on my LinkedIn profile.",
+  "resume": {
+    "tagline": "👋  I'm a Front-end Developer",
+    "description": "As a recent graduate of a prestigious web development bootcamp in Barcelona, I've cultivated a strong passion for technology, particularly in the realm of front-end development. My education has furnished me with a multifaceted skill set that seamlessly aligns with the ever-evolving tech landscape, including expertise in front-end tools and frameworks. I possess sharp troubleshooting abilities, a keen eye for detail, and exceptional client and collaborator engagement skills. My journey in the geospatial sector has equipped me with substantial technical expertise, which I'm eager to apply while leveraging front-end tools to create immersive user experiences. More information such as prior jobs and references can be found on my LinkedIn.",
+    "experiences": [
+      {
+        "id": "1",
+        "dates": "May 2023 - Present",
+        "type": "Freelance",
+        "position": "Frontend developer",
+        "bullets": "Experienced in troubleshooting and debugging code to identify and resolve issues, ensuring the stability and functionality of web projects"
+      },
+      {
+        "id": "2",
+        "dates": "Jan 2023 - Feb 2023",
+        "type": "Full Time at Le Wagon Barcelona",
+        "position": "Full Stack Developer at ChillPill Project",
+        "bullets": "Co-created a web app for pet owners to manage their pet's medication schedule.Designed and coded the app to send timely reminders for administering medication."
+      },
+      {
+        "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+        "dates": "Feb 2023 - March 2023",
+        "type": "Full Time at Le Wagon Barcelona",
+        "position": "Full Stack Developer at TOGO Project",
+        "bullets": "Utilized Figma for design, CSS and HTML5 for front-end development, and JavaScript for interactive elements.Worked with the Ruby programming language and Ruby on Rails framework to build the back-end infrastructure of the web app."
+      }
+    ],
+    "education": {
+      "universityName": "Le Wagon Barcelona",
+      "universityDate": "2023-2023",
+      "universityPara": " Le Wagon, a highly regarded international coding bootcamp that specializes in teaching web development and programming skills."
+    },
+    "languages": [
+      "Javascript",
+      "HTML5",
+      "CSS",
+      "Ruby",
+      "Figma"
+    ],
+    "frameworks": [
+      "React",
+      "Typescript",
+      "Tailwind",
+      "Bootstrap"
+    ],
+    "others": [
+      "SQL",
+      "JQuery",
+      "API",
+      "Git/Github",
+      "AJAX, Redux"
+    ],
+
+    "certificates":[
+
+      "Le Wagon Barcelona Bootcamp - Full Stack Developer",
+      "Learn JavaScript - Code Academy",
+      "Introduction of Front-End Development- Coursera",
+      "Foundation of User Experience by Google"
+
+    ]
+  }
+}
